@@ -22,7 +22,7 @@ DocApproval is a production-style serverless workflow tool built entirely on AWS
  
 🏗️ Architecture
  
-![DocApproval Architecture](screenshots/docapproval-architecture.jpg)
+![DocApproval Architecture](ScreenShots/docapproval-architecture.jpg)
  
 The application follows a fully serverless request flow:
  
@@ -40,13 +40,13 @@ The application follows a fully serverless request flow:
 🖼️ Screenshots
  
 **1. Sign in with Cognito**
-![Cognito Hosted UI](screenshots/cognito-hosted-ui-email.png)
+![Cognito Hosted UI](ScreenShots/cognito-hosted-ui-email.png)
  
 **2. Admin reviews pending documents**
-![Admin — Pending Documents](screenshots/admin-pending-documents-list.png)
+![Admin — Pending Documents](ScreenShots/admin-pending-documents-list.png)
  
 **3. Employee tracks the decision**
-![Employee — My Documents](screenshots/employee-my-documents-approved-rejected.png)
+![Employee — My Documents](ScreenShots/employee-my-documents-approved-rejected.png)
  
 ✨ Features
  
