@@ -1,5 +1,19 @@
 # 📋 DocApproval — Serverless Document Approval System
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Serverless-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon-Cognito-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Serverless-100%25-black?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <strong>A fully serverless AWS document approval workflow with secure authentication, role-based access control, automated notifications, and intelligent text extraction.</strong>
+</p>
+
+
 **DocApproval** is a cloud-native, fully serverless application for uploading and approving internal documents. Employees upload files for review; admins approve or reject them with a single click. Built entirely on AWS — Amazon Cognito for role-based authentication, API Gateway + Lambda for backend processing, S3 + DynamoDB for storage, SNS for instant email notifications, and Textract for automatic text extraction — **with zero traditional servers or EC2**.
 
 ---
