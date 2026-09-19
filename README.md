@@ -22,7 +22,7 @@ DocApproval is a production-style serverless workflow tool built entirely on AWS
  
 🏗️ Architecture
  
-![DocApproval Architecture](screenshots/docapproval-architecture.png)
+![DocApproval Architecture](screenshots/docapproval-architecture.jpg)
  
 The application follows a fully serverless request flow:
  
