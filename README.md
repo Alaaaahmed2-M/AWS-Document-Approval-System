@@ -33,7 +33,7 @@ Role-based access is enforced end-to-end using Cognito groups and JWT authorizat
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="ScreenShots/docapproval-architecture.png" alt="DocApproval Architecture" width="750">
+  <img src="ScreenShots/docapproval-architecture.jpg" alt="DocApproval Architecture" width="750">
 </p>
 
 The application follows a fully serverless request flow:
@@ -56,17 +56,17 @@ The application follows a fully serverless request flow:
 
 **1. Sign in with Cognito**
 <p align="center">
-  <img src="ScreenShots/cognito-hosted-ui-email.png" alt="Cognito Hosted UI" width="700">
+  <img src="ScreenShots/cognito-hosted-ui-email.jpg" alt="Cognito Hosted UI" width="700">
 </p>
 
 **2. Admin reviews pending documents**
 <p align="center">
-  <img src="ScreenShots/admin-pending-documents-list.png" alt="Admin — Pending Documents" width="700">
+  <img src="ScreenShots/admin-pending-documents-list.jpg" alt="Admin — Pending Documents" width="700">
 </p>
 
 **3. Employee tracks the decision**
 <p align="center">
-  <img src="ScreenShots/employee-my-documents-approved-rejected.png" alt="Employee — My Documents" width="700">
+  <img src="ScreenShots/employee-my-documents-approved-rejected.jpg" alt="Employee — My Documents" width="700">
 </p>
 
 ---
